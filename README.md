@@ -1,3 +1,7 @@
 # shopApp
 A mobile app
-Do it myself'\\'
+<<<<<<< HEAD
+Do it myself.
+=======
+Do it myself.
+>>>>>>> test
